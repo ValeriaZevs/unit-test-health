@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
+    "\\.github\\workflows",
     "\\src",
     "\\src\\__tests__"
   ],
-  "SelectedNode": "\\eslint.config.js",
+  "SelectedNode": "\\.github\\workflows\\ci.yml",
   "PreviewInSolutionExplorer": false
 }

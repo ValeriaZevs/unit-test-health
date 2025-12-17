@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\\u0412\u0430\u043B\u0435\u0440\u0438\\unit-test-health\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0412\u0430\u043B\u0435\u0440\u0438\\unit-test-health\\.github\\workflows\\ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0412\u0430\u043B\u0435\u0440\u0438\\unit-test-health\\src\\__tests__\\health.test.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\__tests__\\health.test.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -42,11 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "ci.yml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0430\u043B\u0435\u0440\u0438\\unit-test-health\\.github\\workflows\\ci.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\ci.yml",
+              "ToolTip": "C:\\Users\\\u0412\u0430\u043B\u0435\u0440\u0438\\unit-test-health\\.github\\workflows\\ci.yml",
+              "RelativeToolTip": ".github\\workflows\\ci.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-12-17T13:05:08.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "eslint.config.js",
               "DocumentMoniker": "C:\\Users\\\u0412\u0430\u043B\u0435\u0440\u0438\\unit-test-health\\eslint.config.js",
               "RelativeDocumentMoniker": "eslint.config.js",
@@ -54,12 +71,11 @@
               "RelativeToolTip": "eslint.config.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-12-17T12:40:29.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T12:40:29.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "jest.config.js",
               "DocumentMoniker": "C:\\Users\\\u0412\u0430\u043B\u0435\u0440\u0438\\unit-test-health\\jest.config.js",
               "RelativeDocumentMoniker": "jest.config.js",
@@ -67,12 +83,11 @@
               "RelativeToolTip": "jest.config.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-12-17T12:28:32.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T12:28:32.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "health.test.js",
               "DocumentMoniker": "C:\\Users\\\u0412\u0430\u043B\u0435\u0440\u0438\\unit-test-health\\src\\__tests__\\health.test.js",
               "RelativeDocumentMoniker": "src\\__tests__\\health.test.js",
@@ -85,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "health.js",
               "DocumentMoniker": "C:\\Users\\\u0412\u0430\u043B\u0435\u0440\u0438\\unit-test-health\\src\\health.js",
               "RelativeDocumentMoniker": "src\\health.js",
@@ -93,12 +108,11 @@
               "RelativeToolTip": "src\\health.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-12-17T12:25:36.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T12:25:36.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\\u0412\u0430\u043B\u0435\u0440\u0438\\unit-test-health\\package.json",
               "RelativeDocumentMoniker": "package.json",
@@ -106,12 +120,11 @@
               "RelativeToolTip": "package.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-17T12:22:53.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T12:22:53.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": ".eslintrc.json",
               "DocumentMoniker": "C:\\Users\\\u0412\u0430\u043B\u0435\u0440\u0438\\unit-test-health\\.eslintrc.json",
               "RelativeDocumentMoniker": ".eslintrc.json",
@@ -119,12 +132,11 @@
               "RelativeToolTip": ".eslintrc.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-17T12:19:29.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T12:19:29.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": ".browserslistrc",
               "DocumentMoniker": "C:\\Users\\\u0412\u0430\u043B\u0435\u0440\u0438\\unit-test-health\\.browserslistrc",
               "RelativeDocumentMoniker": ".browserslistrc",
@@ -132,12 +144,11 @@
               "RelativeToolTip": ".browserslistrc",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-17T12:18:51.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T12:18:51.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "babel.config.json",
               "DocumentMoniker": "C:\\Users\\\u0412\u0430\u043B\u0435\u0440\u0438\\unit-test-health\\babel.config.json",
               "RelativeDocumentMoniker": "babel.config.json",
@@ -145,8 +156,7 @@
               "RelativeToolTip": "babel.config.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-17T12:16:11.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T12:16:11.843Z"
             }
           ]
         }
