@@ -1,0 +1,9 @@
+{
+    "name": "unit-test-health",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "lint": "eslint .",
+        "test": "jest --coverage"
+    }
+}
